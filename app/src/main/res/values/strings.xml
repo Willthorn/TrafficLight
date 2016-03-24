@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrafficLight</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_green">Зеленый</string>
+    <string name="color_yellow">Желтый</string>
+    <string name="color_red">Красный</string>
+</resources>
