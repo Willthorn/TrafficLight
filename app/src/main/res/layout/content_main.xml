@@ -19,7 +19,6 @@
         android:layout_height="wrap_content"
         android:text="@string/color_green"
         android:id="@+id/buttonGreen"
-        android:onClick="onGreenButtonClick"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
 
@@ -29,8 +28,7 @@
         android:text="@string/color_yellow"
         android:id="@+id/buttonYellow"
         android:layout_below="@+id/buttonGreen"
-        android:layout_centerHorizontal="true"
-        android:onClick="onYellowButtonClick"/>
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="match_parent"
